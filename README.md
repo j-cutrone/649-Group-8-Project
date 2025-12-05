@@ -7,7 +7,7 @@ The dataset is aggregated from multiple sources stored in Google Drive, labeled 
 
 To set-up, install, and run the code to get results that our report discussed, follow these steps:
 
-1. Download the code file labeled '649_group8.ipynb' and the folder labeled 'VectorCam_images' (which should contain a subfolder name 'raw_images' that has 5 subfolders and a csv file within it).
+1. Download the code file labeled '649_group8.ipynb' and the folder labeled 'VectorCam_images' located in our report (which should contain a subfolder name 'raw_images' that has 5 subfolders and a csv file within it). We are not able to upload the folder in this repository because it is too big.
 2. Within Google Drive under My Drive, you will need to create a folder labeled '649_group8' and within that folder create a folder named 'FinalProject' and within that folder input the 'VectorCam_images' folder you downloaded earlier. This should create the following base file path that is necessary for the code to work (and can be changed within the code if you wish): '/content/gdrive/MyDrive/649_group8/FinalProject/VectorCam_images'.
 3. Open the coding file using Google Colab
 4. Select the desire run-time (a high powered GPU is recommended) and click run-all
